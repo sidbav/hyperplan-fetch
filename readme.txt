@@ -1,3 +1,21 @@
+# Hyperplan-Fetch
+
+Configuration Files Corresponding to the hyperplan repo
+
+`results` directory stores the results of running the hyperplanning optimization and then testing of the said configurations
+
+The Only configuration files we will be running are:
+- box_pick-*.yaml
+- tall_pick-*.yaml
+- tall_place-*.yaml
+- thin_vert_place-*.yaml
+
+We will only be running configuration files with the loss functions of:
+- execution time
+- path length
+- memory_loss (when that is implemented)
+
+###
 See the corresponding images of each dataset for a visualization of start and goal. 
 
 
