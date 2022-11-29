@@ -15,6 +15,8 @@ We will only be running configuration files with the loss functions of:
 - path length
 - memory_loss (when that is implemented)
 
+NOTE: We have updated the accross_groups to only run on the small_pick configuration files
+
 # Original Readme from paper authors
 See the corresponding images of each dataset for a visualization of start and goal.
 
